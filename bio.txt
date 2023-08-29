@@ -1,0 +1,13 @@
+Hello, I'm Clifton (Cliff) Lee and you can contact me at:
+
+* Email & Slack: clifton.lee97@spsmail.cuny.edu (best way to contact me)
+* Linked-In: https://www.linkedin.com/in/cliff-lee-9474b71
+* Github: cliftonleesps
+
+I'm a DevOps manager for a non-profit, specifically for the United Federation of Teachers - Welfare Fund which is the teacher's union for NYC. Day to day, my team of developers and engineers maintain web infrastructure for our 300k+ active members.  We support all types of tech stacks but we really think of ourselves of a Linux-based computing group; although moving to the cloud, this is becoming less relevant.
+
+From my CUNY classes, I'm comfortable working in R or Python however I have no experience with ArcGIS. My Javascript skills are one level above a novice level.
+
+Regarding my career objectives, I would like to start an analysis group within my company and leave operations altogether. I understand that communication is a key part of data analysis so I hope to develop more of an 'artististic' intuition. 
+
+
