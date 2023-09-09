@@ -1,0 +1,29 @@
+Your story (Data Visualization(s) ) should address the following questions:
+
+Is the allocation equitable based on the population of each of the States and Territories, or is bias apparent?
+
+Does the allocation favor the political interests of the Biden administration?
+
+Brief
+
+During the 2020 presidential election, Joseph Biden compaigned with his "Build Back Better" slogan promising to help the country rebuild its aging public systems and services. As a result, he worked with Congress and passed the Infrastructure Investment and Jobs Act was passed in 2021 which focused on improving infrastructure, transportation, ports as well as support for education, housing and immigration efforts. However, as the allocation of funds have been dispersed, there are a couple of questions:
+
+ * Is the allocation equitable based on the population of each of the States and Territories, or is bias apparent?
+
+ * Does the allocation favor the political interests of the Biden administration?
+
+
+Allocation Distribution
+
+Regarding how the government distributed the IIJA funds, it either did so based on a state (or region's population) or through some other standard.
+
+The map below shows how many states received funding by more than ten percent of its population-percentage for the 2020 year. For example, Maine has a population of 
+
+
+
+Mainly states in the midwest received funds as well Alaska, Hawaii and a few coastal states.  To dispell any possibility of favoritism based on the 2020 electoral results, we can see only several states are in common (Hawaii, Vermont, Connecticut, Illinois, Nebraska, New Mexico). We can conclude no political influence appears in the IIJA's allocation.
+
+
+Political Influence on Allocation
+
+

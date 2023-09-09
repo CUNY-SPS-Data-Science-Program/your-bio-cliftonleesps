@@ -1,0 +1,56 @@
+CALIFORNIA              
+TEXAS                   
+FLORIDA                 
+NEW YORK                
+PENNSYLVANIA            
+ILLINOIS                
+OHIO                    
+GEORGIA                 
+NORTH CAROLINA          
+MICHIGAN                
+NEW JERSEY              
+VIRGINIA                
+WASHINGTON              
+ARIZONA                 
+TENNESSEE               
+MASSACHUSETTS           
+INDIANA                 
+MISSOURI                
+MARYLAND                
+WISCONSIN               
+COLORADO                
+MINNESOTA               
+SOUTH CAROLINA          
+ALABAMA                 
+LOUISIANA               
+KENTUCKY                
+OREGON                  
+OKLAHOMA                
+CONNECTICUT             
+UTAH                    
+PUERTO RICO             
+IOWA                    
+NEVADA                  
+ARKANSAS                
+MISSISSIPPI             
+KANSAS                  
+NEW MEXICO              
+NEBRASKA                
+IDAHO                   
+WEST VIRGINIA           
+HAWAII                  
+NEW HAMPSHIRE           
+MAINE                   
+MONTANA                 
+RHODE ISLAND            
+DELAWARE                
+SOUTH DAKOTA            
+NORTH DAKOTA            
+ALASKA                  
+DISTRICT OF COLUMBIA    
+VERMONT                 
+WYOMING                 
+GUAM                    
+US VIRGIN ISLANDS       
+AMERICAN SAMOA          
+NORTHERN MARIANA ISLANDS
